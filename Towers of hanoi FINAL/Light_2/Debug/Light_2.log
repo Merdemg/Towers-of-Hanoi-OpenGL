@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(135): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(271): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(340): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(344): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(345): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(346): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(503): warning C4018: '>': signed/unsigned mismatch
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(529): warning C4018: '>': signed/unsigned mismatch
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(650): warning C4018: '<': signed/unsigned mismatch
+c:\users\merdem\desktop\light_2 - copy (2)\light_2\main.cpp(739): warning C4018: '<': signed/unsigned mismatch
+  Light_2.vcxproj -> C:\Users\Merdem\Desktop\Light_2 - Copy (2)\Debug\Light_2.exe
